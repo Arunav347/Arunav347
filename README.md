@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arunav</h1>
 
- <h3 align="center">🔭 Software Developer Having 1+ Years of Experience in Product Based Company</h3>
+ <h3 align="center">🔭 Software Developer Having 1.6 Years of Experience in Product Based Company</h3>
 
 - 💼 **EDUCATION** <br>
      Indian Institute of Technology Guwahati – MTech  Data Science [2019 - 2021] <br>
